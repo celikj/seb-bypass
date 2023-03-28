@@ -11,6 +11,6 @@ if "SMBIOS.reflectHost = “True”" in file_text:
 else:
     with open(file_path, "a") as file:
         file.write("\nSMBIOS.reflectHost = “True”")
-        print("bypass completed successfully.")
+        print("SEB vm detection bypassed successfully.")
 
 input("Press any key to close the program...")
