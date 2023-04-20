@@ -1,7 +1,12 @@
 import os
+from pathlib import Path
 
 user_namex = os.environ['USERNAME']
-file_path = f"C:\\Users\\{user_namex}\\Documents\\Virtual Machines\\Windows 10\\windows 10.vmx"
+
+documents_folder = "Documents"
+documents_path = Path.home() / documents_folder
+
+file_path = f"{documents_path}\\Virtual Machines\\Windows 10\\windows 10.vmx"
 
 with open(file_path, "r") as file:
     file_text = file.read()
