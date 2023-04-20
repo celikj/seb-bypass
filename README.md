@@ -15,7 +15,7 @@ just choose iso in VMware and follow the steps
 ### If python is not installed on your computer, first install it.
 [Python.org](https://python.org)
 ### Run bypass.py
-download and run the bypass.py by simply double clicking or cmd.
+[download](https://github.com/dei0ces/seb-bypass/releases/download/2.0.0/bypass.py)and run the bypass.py by simply double clicking or cmd.
 
 
 
