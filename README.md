@@ -14,8 +14,8 @@ just choose iso in VMware and follow the steps
 ## 2-Bypass the vm detection 
 ### If python is not installed on your computer, first install it.
 [Python.org](https://python.org)
-### Run bypass.py
-[download](https://github.com/dei0ces/seb-bypass/releases/download/2.0.0/bypass.py) and run the bypass.py by simply double clicking or cmd.
+### Run bypass.py 
+[download](https://github.com/dei0ces/seb-bypass/releases/download/2.0.0/bypass.py) and run the bypass.py by simply double clicking or cmd.(not in vm)
 
 
 
