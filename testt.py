@@ -1,7 +1,7 @@
 import os
 from pathlib import Path
 
-filename = "windows 10.vmx"
+filename = "windows 10.vmx" or "windows 10 x64.vmx" or  "windows 10 x32.vmx"
 onedrive_path = Path.home() / "OneDrive"
 
 if onedrive_path.exists():
